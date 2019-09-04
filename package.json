@@ -30,9 +30,11 @@
   },
   "devDependencies": {
     "@types/jest": "24.0.18",
+    "@types/json-schema": "7.0.3",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
     "husky": "3.0.5",
+    "json-schema": "0.2.3",
     "react": "16.9.0",
     "react-dom": "16.9.0",
     "tsdx": "0.9.1",
